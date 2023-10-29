@@ -121,5 +121,5 @@ function convertToPrecision(num, precision) {
 }
 
 console.log("Завдання 12 ====================================");
-console.log("convertToPrecision(42.9876, 2)", convertToPrecision(42.9876, 2)); // Виведе "43"
+console.log("convertToPrecision(42.9876, 2)", convertToPrecision(42.9876, 2));
 
